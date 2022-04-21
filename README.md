@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sonnuuuu (Sonu Kumar)
 - 👀 I’m interested in mern stack development
-- 🌱 I’m currently learning JS React.Js and DSA
+- 🌱 I’m currently learning JS and DSA
 - 💞️ I’m looking to collaborate on live projects
      to develop my programming and problem solving skills
 - 📫 you can reach me out personally on 
